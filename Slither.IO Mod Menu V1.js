@@ -2,7 +2,7 @@
 // @name         Slither.io Mod Menu V1
 // @namespace    slither.io
 // @version      1.0.0.1
-// @description  try to take over the world!
+// @description  SLither io Mod By IO Modding
 // @author       You
 // @match        http:slither.io
 // @grant        none
