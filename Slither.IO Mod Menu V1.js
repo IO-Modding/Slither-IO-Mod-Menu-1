@@ -3,8 +3,8 @@
 // @namespace    slither.io
 // @version      1.0.0.1
 // @description  SLither io Mod By IO Modding
-// @author       You
-// @match        http:slither.io
+// @author       IO Modding
+// @match        http://slither.io
 // @grant        none
 // ==/UserScript==
 
