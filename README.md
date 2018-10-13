@@ -1,4 +1,4 @@
-# Slither-IO-Mod-Menus
+# Slither-IO-Mod-Menu-V1
 A Mod Menu Made by IO Modding that is currently still in development with more features to come.
 Features:
 - Hide Menu
