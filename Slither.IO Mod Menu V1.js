@@ -6,6 +6,8 @@
 // @author       IO Modding
 // @match        http://slither.io/
 // @grant        none
+// @downloadURL https://raw.githubusercontent.com/IO-Modding/Slither-IO-Mod-Menu-1/master/Slither.IO%20Mod%20Menu%20V1.js
+// @updateURL   https://raw.githubusercontent.com/IO-Modding/Slither-IO-Mod-Menu-1/master/Slither.IO%20Mod%20Menu%20V1.js
 // ==/UserScript==
 var _$_34bf=(function(_0x25CBD,_0x25B55)
 {
