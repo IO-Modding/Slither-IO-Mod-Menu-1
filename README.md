@@ -15,7 +15,7 @@ Features:
 - 120 Target FPS(Soon to be changed)
 
 Comming Soon:
--Party System
--Clan System
--Visual Debug Apperence(Shows whats going on when you are avoiding danger, also gives you a visual for the Range Detection)
+- Party System
+- Clan System
+- Visual Debug Apperence(Shows whats going on when you are avoiding danger, also gives you a visual for the Range Detection)
 -
